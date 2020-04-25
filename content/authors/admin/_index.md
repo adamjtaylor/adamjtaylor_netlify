@@ -23,14 +23,13 @@ bio: My research interests are in the application of multimodal mass spectrometr
 
 interests:
 - Mass spectrometry imaging as spatial metabolomics approaches
-- Tumour metabolism
-- Dimensionality reduction
-- #rstats
+- Tumour heterogenity
+- \#rstats
 - My two cats, Gus and Gilda!
 
 education:
   courses:
-  - course: PhD
+  - course: PhD in Pharmacy
     institution: University of Nottinngham
     year: 2014
   - course: MEng in Biochemical Engineering
