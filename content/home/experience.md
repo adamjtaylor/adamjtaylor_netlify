@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Teddington, UK"
   date_start = "November 2015"
   date_end = ""
-  description = """"""
+  description = """ """
 
 [[experience]]
   title = "Research Associate"
@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Seattle, WA, USA"
   date_start = "January 2014"
   date_end = "October 2015"
-  description = """"""
+  description = """ """
 
 +++
