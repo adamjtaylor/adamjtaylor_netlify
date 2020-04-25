@@ -14,8 +14,9 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National Physical Laboratory
   url: ""
+- name: The Francis Crick Institute
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in the application of multimodal mass spectrometry imaging and advanced data analysis approaches to unravel spatial heterogeneity in tumour metabolism. 
