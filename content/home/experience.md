@@ -20,11 +20,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Higher Research Scientist"
   company = "National Physical Laboratory"
-  company_url = "http://npl.co.uk"
+  company_url = ""
   location = "Teddington, UK"
   date_start = "November 2015"
   date_end = ""
-  description = """ """
+  description = "A description."
 
 [[experience]]
   title = "Research Associate"
@@ -33,6 +33,6 @@ date_format = "Jan 2006"
   location = "Seattle, WA, USA"
   date_start = "January 2014"
   date_end = "October 2015"
-  description = """ """
+  description = "Also a description"
 
 +++
