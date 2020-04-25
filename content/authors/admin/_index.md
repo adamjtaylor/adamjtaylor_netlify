@@ -10,13 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+#role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-- name: National Physical Laboratory
-  url: ""
-- name: The Francis Crick Institute
+#organizations:
+#- name: National Physical Laboratory
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests are in the application of multimodal mass spectrometry imaging and advanced data analysis approaches to unravel spatial heterogeneity in tumour metabolism. 
