@@ -1,0 +1,16 @@
+---
+title: '#tidytuesdy: Best Rap Artists'
+author: ~
+date: '2020-04-26'
+slug: tidytuesdy-best-rap-artists
+categories: []
+tags: []
+---
+
+
+
+<p>Another #tidytuesday. This time on the best rap songs per a BBC music poll. Most of the critics were from the USA (n = 73), and I wondered if their favorite songs differed from those of critics from the rest of the world (n = 34).</p>
+<p>The data provided only provided the top 5 songs for each critic and the global ranking, so I had to recalculate the rankings based on the critics country of origin.</p>
+<p>A segment plot seemed to be the best way to visualise this. I really wanted to use images as the points - a US flag and a globe. However, I failed to get a working solution despite tesing <code>ggflags</code>, <code>ggimage</code> and various emoji packages - perhaps something to return to.</p>
+<pre><code>## Joining, by = c(&quot;title&quot;, &quot;artist&quot;, &quot;year&quot;)</code></pre>
+<p><img src="/post/2020-04-26-tidytuesdy-best-rap-artists_files/figure-html/unnamed-chunk-2-1.png" width="768" /></p>
