@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Teddington, UK"
   date_start = "2015-11-01"
   date_end = ""
-  description = "A description."
+  description = "A description.\nWith multiple lines."
 
 [[experience]]
   title = "Research Associate"
