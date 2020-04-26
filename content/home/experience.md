@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   
 [[experience]]
     title = "PhD student"
-    company = "University of Nottingham School of Pharmacy
+    company = "University of Nottingham School of Pharmacy"
     location = "Nottingham, UK"
     date_start = "2011-10-01"
     date_end = "2014-12-01"
