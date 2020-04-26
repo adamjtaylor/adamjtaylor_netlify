@@ -46,10 +46,11 @@ date_format = "Jan 2006"
     location = "Nottingham, UK"
     date_start = "2011-10-01"
     date_end = "2014-12-01"
-    description = """
-    - Thesis: Analytical and cellular investigations of cell-secreted matrices from cytokine challenged environments [PDF](https://paperpile.com/shared/Qds82T).
+      description = """
+  - Thesis: Analytical and cellular investigations of cell-secreted matrices from cytokine challenged environments [PDF](https://paperpile.com/shared/Qds82T).
     - Supervisors: [Prof Morgan Alexander](https://www.nottingham.ac.uk/pharmacy/people/morgan.alexander) & [Dr Lee Buttery](https://www.nottingham.ac.uk/pharmacy/people/lee.buttery). 
     - Member of [EPSRC DTC in Regenerative Medicine](https://www.lboro.ac.uk/microsites/chemical/dtcregen-med/).
-    """
+  """
+
 
 +++
