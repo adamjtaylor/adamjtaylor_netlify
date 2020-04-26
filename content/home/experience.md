@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   - Chairman, University of Washington Postdoctoral Association (2015 academic year)
   """
   
-  [[experience]]
+[[experience]]
     title = "PhD student"
     company = "University of Nottingham School of Pharmacy
     location = "Nottingham, UK"
