@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Teddington, UK"
   date_start = "2015-11-01"
   date_end = ""
-  description = "A description."
+  description = "A description.\nWith multiple lines."
 
 [[experience]]
   title = "Research Associate"
@@ -34,10 +34,11 @@ date_format = "Jan 2006"
   date_start = "2014-01-05"
   date_end = "2015-10-25"
   description = """
+  
   - ToF-SIMS analysis of decellularised materials reveals residual detergents
   - Understanding GCIB sputtering behaviour at mixed organic interfaces
   - Graduate student mentor
-  - Chairman, University of Washington Postdoctoral Association (2015 academic year)
+  - Chairman, University of Washington Postdoctoral Association (2015 academic year).
   """
   
 [[experience]]
@@ -46,11 +47,12 @@ date_format = "Jan 2006"
     location = "Nottingham, UK"
     date_start = "2011-10-01"
     date_end = "2014-12-01"
-    description = """
-    - Thesis: Analytical and cellular investigations of cell-secreted matrices from cytokine 
-		challenged environments [PDF](https://paperpile.com/shared/Qds82T)
-    - Supervisors: [Prof Morgan Alexander](https://www.nottingham.ac.uk/pharmacy/people/morgan.alexander) & [Dr Lee Buttery](https://www.nottingham.ac.uk/pharmacy/people/lee.buttery)
-    - Member of [EPSRC DTC in Regenerative Medicine](https://www.lboro.ac.uk/microsites/chemical/dtcregen-med/)
-    """
+      description = """
+      
+  - Thesis: Analytical and cellular investigations of cell-secreted matrices from cytokine challenged environments [PDF](https://paperpile.com/shared/Qds82T)
+  - Supervisors: [Prof Morgan Alexander](https://www.nottingham.ac.uk/pharmacy/people/morgan.alexander) & [Dr Lee Buttery](https://www.nottingham.ac.uk/pharmacy/people/lee.buttery)
+  - Member of [EPSRC DTC in Regenerative Medicine](https://www.lboro.ac.uk/microsites/chemical/dtcregen-med/).
+  """
+
 
 +++
