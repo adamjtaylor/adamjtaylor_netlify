@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   description = """
   - ToF-SIMS analysis of decellularised materials reveals residual detergents
   - Understanding GCIB sputtering behaviour at mixed organic interfaces
-  - Graduate student mentor
+  - Graduate student [mentor](www.example.com)
   - Chairman, University of Washington Postdoctoral Association (2015 academic year).
   """
   
