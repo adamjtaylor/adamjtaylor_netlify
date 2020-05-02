@@ -24,7 +24,11 @@ date_format = "Jan 2006"
   location = "Teddington, UK"
   date_start = "2015-11-01"
   date_end = ""
-  description = "A description.\nWith multiple lines."
+  description = """
+  
+  - MALDI and DESI MSI to assess metabolic heterogity in breast cancer models (Visiting Scienist at The Francis Crick Institute)
+  - Deliver of high quality commercial R&D using multimodal mass spectrometry imaging
+  - Advanced data analysis of massivly multiplexed imaging methods - clustering, dimensionality reduction and classification.
 
 [[experience]]
   title = "Research Associate"
