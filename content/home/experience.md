@@ -29,6 +29,7 @@ date_format = "Jan 2006"
   - MALDI and DESI MSI to assess metabolic heterogity in breast cancer models (Visiting Scienist at The Francis Crick Institute)
   - Deliver of high quality commercial R&D using multimodal mass spectrometry imaging
   - Advanced data analysis of massivly multiplexed imaging methods - clustering, dimensionality reduction and classification.
+  """
 
 [[experience]]
   title = "Research Associate"
