@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Adam Taylor is a Higher Research Scientist at National Physical Laboratory and Visiting Scientist at The Francis Crick Institute. His research interests include the use of mass spectrometry imaging, particuarly DESI MSI, as spatial metabolomics and digital pathology approaches. He is a member of the CRUK Grand Challenge Rosetta team.
+My research interests are in the application of multimodal mass spectrometry imaging and advanced data analysis approaches to unravel spatial heterogeneity in tumour metabolism. 
