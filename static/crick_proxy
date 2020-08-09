@@ -1,0 +1,1 @@
+javascript:(function(){window.location.assign(location.protocol+'//'+'remote.crick.ac.uk/http/'+location.hostname+location.pathname)})();
