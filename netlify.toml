@@ -30,3 +30,9 @@ from = "/proxy?url=*"
 to = "https://remote.crick.ac.uk/http/"
 status = 301
 force = false
+
+ [[redirects]]
+from = "/cv"
+to = "/adamjtaylor_cv.pdf"
+status = 301
+force = false
