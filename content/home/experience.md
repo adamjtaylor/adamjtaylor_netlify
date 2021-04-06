@@ -22,8 +22,18 @@ date_format = "Jan 2006"
   company = "National Physical Laboratory"
   company_url = ""
   location = "Teddington, UK"
-  date_start = "2015-11-01"
+  date_start = "2020-08-01"
   date_end = ""
+  description = ""
+
+
+[[experience]]
+  title = "Higher Research Scientist"
+  company = "National Physical Laboratory"
+  company_url = ""
+  location = "Teddington, UK"
+  date_start = "2015-11-01"
+  date_end = "2020-08-01"
   description = """
   
   - MALDI and DESI MSI to assess metabolic heterogity in breast cancer models (Visiting Scienist at The Francis Crick Institute)
